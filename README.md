@@ -4,13 +4,21 @@
 ## Skills
 
 **AI & Machine Learning:** AI Agents, AI Workflows, Computer Vision, Data Mining, Deep Learning, Feature Engineering, Keras, Machine Learning, Model Context Protocol, Model Evaluation & Validation, Model Fine-tuning, Natural Language Processing (NLP), Neural Networks (CNNs, RNNs, Transformers, more), Prompt Engineering, PyTorch, Reinforcement Learning, Robotics, Scikit-learn, TensorFlow
+
 **Programming & Scripting Languages:** Python, Javascript, Typescript, NodeJS, Perl, Shell Scripting (Bash, Csh, Sh, Zsh), Awk, Sed, Rust, Java, C, C++, VBA, PowerShell, VBS, Batch files, more...
+
 **Web Technologies:** Frontend: React, HTML, Javascript, Backend: NodeJS, GraphQL, Express, Other: WebGL, WebAssembly (WASM)
+
 **Databases:** SQL, NoSql, JSON, Sqlite, PostgreSQL, MSSQL
+
 **Operating Systems & Administration:** Windows (Server & Desktop), Linux (RedHat, CentOS, Debian, Arch, more), Android, iOS, System Administration, Server Administration
+
 **Networking & Security:** Networking Protocols: IP, TCP, DNS, DHCP, Routing, Security: Computer Security, LDAP, Active Directory, SSH, SSL, VPN, OpenVPN
+
 **Tools & Methodologies:** Source Control: Git, Gitea, Virtualization, Containers, Docker, Software Testing, Automated Testing (Jest, Playwright), Project Management, CAD, Graphics, Algorithms
+
 **Technical Expertise:** Troubleshooting, Root Cause Analysis, Problem Decomposition, Analysis, Statistics, Math, Electrical Test Programming, Optek CMM Programming, Mechanical Inspection
+
 **Professional Competencies:** Automation, Customer Service, Remote Phone Support, Production Operation, Information Technology
 
 ## Projects
