@@ -4,7 +4,7 @@
 ## Skills
 
 **Programming & Scripting Languages:**
-- Python, Javascript, Typescript, NodeJS, Perl, Shell Scripting (Bash, Csh, Sh, Zsh), Awk, Sed, Rust, Java, C, C++, VBA, PowerShell, VBS, Batch files, more...
+- Javascript, Typescript, NodeJS, Perl, Shell Scripting (Bash, Csh, Sh, Zsh), Awk, Sed, Rust, Java, C, C++, VBA, PowerShell, VBS, Batch files
 
 **Web Technologies:**
 - Frontend: React, HTML, Javascript
@@ -24,7 +24,7 @@
 
 **Tools & Methodologies:**
 - Source Control: Git, Gitea
-- Virtualization, Software Testing, Automated Testing (Jest, Playwright)
+- Virtualization, Software Testing, Automated Testing (Jest)
 - Project Management, CAD, Graphics
 
 **Technical Expertise:**
@@ -34,23 +34,44 @@
 **Professional Competencies:**
 - Customer Service, Remote Phone Support, Production Operation, Information Technology
 
+**AI & Machine Learning:**
+- AI Agents
+- AI Workflows
+- Computer Vision
+- Data Mining
+- Deep Learning
+- Feature Engineering
+- Keras
+- Machine Learning
+- Model Context Protocol
+- Model Evaluation & Validation
+- Model Fine-tuning
+- Natural Language Processing (NLP)
+- Neural Networks (CNNs, RNNs, Transformers)
+- Prompt Engineering
+- PyTorch
+- Reinforcement Learning
+- Robotics
+- Scikit-learn
+- TensorFlow
+
 ## Projects
 
 ### Self-Improving AI Coding Agent
-- Building a powerful AI-powered coding agent system capable of self-improvement.
-- Utilized this agent to develop 5+ applications simultaneously.
+- Building a powerful system of **AI Agents** capable of self-improvement, leveraging techniques in **Natural Language Processing (NLP)** and **Reinforcement Learning**.
+- Utilized these **AI agents** to develop 5+ applications simultaneously, demonstrating effective autonomous operation and learning capabilities.
 
 ### WebGL BigDecimal Math Library
 - Developing an open-source WebGL BigDecimal implementation.
 - Aims to replace popular libraries like big.js by adding GPU acceleration.
 
 ### AGI Research & ARC Prize
-- Conducting research and work on progressing artificial general intelligence.
+- Conducting research on progressing artificial general intelligence, exploring areas such as advanced **Reinforcement Learning** techniques and novel architectures for the ARC-AGI-2 challenge.
 - Participating in Kaggle challenges, specifically the ARC-AGI-2 challenge.
 
 ### Advanced Modeling (Finance & Data Science)
 - Creating advanced financial models.
-- Developing data science models.
+- Developing data science models, including the application of machine learning frameworks (e.g., **TensorFlow**, **PyTorch**) for predictive analytics and pattern recognition.
 
 ### Data Science Competitions
 - Actively competing in data science competitions.
@@ -118,7 +139,7 @@
 *Central Connecticut State University at TTM Technologies – Stafford, CT*
 
 **Unix Systems Administrator Certificate** (Expected Fall 2025)
-*Quinsigamond Community College – Worcester, MA*
+*Central Connecticut State University – Stafford, CT*
 
 **Associate in Computer Science Transfer** (Expected Fall 2026)
 *Quinsigamond Community College – Worcester, MA*
