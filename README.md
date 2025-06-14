@@ -3,57 +3,15 @@
 
 ## Skills
 
-**Programming & Scripting Languages:**
-- Javascript, Typescript, NodeJS, Perl, Shell Scripting (Bash, Csh, Sh, Zsh), Awk, Sed, Rust, Java, C, C++, VBA, PowerShell, VBS, Batch files
-
-**Web Technologies:**
-- Frontend: React, HTML, Javascript
-- Backend: NodeJS, GraphQL, Express
-- Other: WebGL, WebAssembly (WASM)
-
-**Databases:**
-- SQL (Sqlite), NoSql, JSON
-
-**Operating Systems & Administration:**
-- Windows (Server & Desktop), Linux (RedHat, CentOS, Debian, Arch), Android, iOS
-- System Administration, Server Administration
-
-**Networking & Security:**
-- Networking Protocols: IP, TCP, DNS, DHCP, Routing
-- Security: Computer Security, LDAP, Active Directory, SSH, SSL, VPN (OpenVPN)
-
-**Tools & Methodologies:**
-- Source Control: Git, Gitea
-- Virtualization, Software Testing, Automated Testing (Jest)
-- Project Management, CAD, Graphics
-
-**Technical Expertise:**
-- Troubleshooting, Root Cause Analysis, Problem Decomposition, Analysis, Statistics, Math
-- Electrical Test Programming, Optek CMM Programming, Mechanical Inspection
-
-**Professional Competencies:**
-- Customer Service, Remote Phone Support, Production Operation, Information Technology
-
-**AI & Machine Learning:**
-- AI Agents
-- AI Workflows
-- Computer Vision
-- Data Mining
-- Deep Learning
-- Feature Engineering
-- Keras
-- Machine Learning
-- Model Context Protocol
-- Model Evaluation & Validation
-- Model Fine-tuning
-- Natural Language Processing (NLP)
-- Neural Networks (CNNs, RNNs, Transformers)
-- Prompt Engineering
-- PyTorch
-- Reinforcement Learning
-- Robotics
-- Scikit-learn
-- TensorFlow
+**Programming & Scripting Languages:** Javascript, Typescript, NodeJS, Perl, Shell Scripting (Bash, Csh, Sh, Zsh), Awk, Sed, Rust, Java, C, C++, VBA, PowerShell, VBS, Batch files
+**Web Technologies:** Frontend: React, HTML, Javascript, Backend: NodeJS, GraphQL, Express, Other: WebGL, WebAssembly (WASM)
+**Databases:** SQL (Sqlite), NoSql, JSON, PostgreSQL, MSSQL
+**Operating Systems & Administration:** Windows (Server & Desktop), Linux (RedHat, CentOS, Debian, Arch), Android, iOS, System Administration, Server Administration
+**Networking & Security:** Networking Protocols: IP, TCP, DNS, DHCP, Routing, Security: Computer Security, LDAP, Active Directory, SSH, SSL, VPN (OpenVPN)
+**Tools & Methodologies:** Source Control: Git, Gitea, Virtualization, Software Testing, Automated Testing (Jest), Project Management, CAD, Graphics, Automation
+**Technical Expertise:** Troubleshooting, Root Cause Analysis, Problem Decomposition, Analysis, Statistics, Math, Electrical Test Programming, Optek CMM Programming, Mechanical Inspection
+**Professional Competencies:** Customer Service, Remote Phone Support, Production Operation, Information Technology
+**AI & Machine Learning:** AI Agents, AI Workflows, Computer Vision, Data Mining, Deep Learning, Feature Engineering, Keras, Machine Learning, Model Context Protocol, Model Evaluation & Validation, Model Fine-tuning, Natural Language Processing (NLP), Neural Networks (CNNs, RNNs, Transformers), Prompt Engineering, PyTorch, Reinforcement Learning, Robotics, Scikit-learn, TensorFlow
 
 ## Projects
 
