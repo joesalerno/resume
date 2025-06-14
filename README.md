@@ -4,7 +4,7 @@
 ## Skills
 
 **Programming & Scripting Languages:**
-- Javascript, Typescript, NodeJS, Perl, Shell Scripting (Bash, Csh, Sh, Zsh), Awk, Sed, Rust, Java, C, C++, VBA, PowerShell, VBS, Batch files
+- Python, Javascript, Typescript, NodeJS, Perl, Shell Scripting (Bash, Csh, Sh, Zsh), Awk, Sed, Rust, Java, C, C++, VBA, PowerShell, VBS, Batch files, more...
 
 **Web Technologies:**
 - Frontend: React, HTML, Javascript
@@ -24,7 +24,7 @@
 
 **Tools & Methodologies:**
 - Source Control: Git, Gitea
-- Virtualization, Software Testing, Automated Testing (Jest)
+- Virtualization, Software Testing, Automated Testing (Jest, Playwright)
 - Project Management, CAD, Graphics
 
 **Technical Expertise:**
@@ -118,7 +118,7 @@
 *Central Connecticut State University at TTM Technologies – Stafford, CT*
 
 **Unix Systems Administrator Certificate** (Expected Fall 2025)
-*Central Connecticut State University – Stafford, CT*
+*Quinsigamond Community College – Worcester, MA*
 
 **Associate in Computer Science Transfer** (Expected Fall 2026)
 *Quinsigamond Community College – Worcester, MA*
