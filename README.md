@@ -3,15 +3,15 @@
 
 ## Skills
 
-**Programming & Scripting Languages:** Javascript, Typescript, NodeJS, Perl, Shell Scripting (Bash, Csh, Sh, Zsh), Awk, Sed, Rust, Java, C, C++, VBA, PowerShell, VBS, Batch files
+**AI & Machine Learning:** AI Agents, AI Workflows, Computer Vision, Data Mining, Deep Learning, Feature Engineering, Keras, Machine Learning, Model Context Protocol, Model Evaluation & Validation, Model Fine-tuning, Natural Language Processing (NLP), Neural Networks (CNNs, RNNs, Transformers, more), Prompt Engineering, PyTorch, Reinforcement Learning, Robotics, Scikit-learn, TensorFlow
+**Programming & Scripting Languages:** Python, Javascript, Typescript, NodeJS, Perl, Shell Scripting (Bash, Csh, Sh, Zsh), Awk, Sed, Rust, Java, C, C++, VBA, PowerShell, VBS, Batch files, more...
 **Web Technologies:** Frontend: React, HTML, Javascript, Backend: NodeJS, GraphQL, Express, Other: WebGL, WebAssembly (WASM)
-**Databases:** SQL (Sqlite), NoSql, JSON, PostgreSQL, MSSQL
-**Operating Systems & Administration:** Windows (Server & Desktop), Linux (RedHat, CentOS, Debian, Arch), Android, iOS, System Administration, Server Administration
-**Networking & Security:** Networking Protocols: IP, TCP, DNS, DHCP, Routing, Security: Computer Security, LDAP, Active Directory, SSH, SSL, VPN (OpenVPN)
-**Tools & Methodologies:** Source Control: Git, Gitea, Virtualization, Software Testing, Automated Testing (Jest), Project Management, CAD, Graphics, Automation
+**Databases:** SQL, NoSql, JSON, Sqlite, PostgreSQL, MSSQL
+**Operating Systems & Administration:** Windows (Server & Desktop), Linux (RedHat, CentOS, Debian, Arch, more), Android, iOS, System Administration, Server Administration
+**Networking & Security:** Networking Protocols: IP, TCP, DNS, DHCP, Routing, Security: Computer Security, LDAP, Active Directory, SSH, SSL, VPN, OpenVPN
+**Tools & Methodologies:** Source Control: Git, Gitea, Virtualization, Containers, Docker, Software Testing, Automated Testing (Jest, Playwright), Project Management, CAD, Graphics, Algorithms
 **Technical Expertise:** Troubleshooting, Root Cause Analysis, Problem Decomposition, Analysis, Statistics, Math, Electrical Test Programming, Optek CMM Programming, Mechanical Inspection
-**Professional Competencies:** Customer Service, Remote Phone Support, Production Operation, Information Technology
-**AI & Machine Learning:** AI Agents, AI Workflows, Computer Vision, Data Mining, Deep Learning, Feature Engineering, Keras, Machine Learning, Model Context Protocol, Model Evaluation & Validation, Model Fine-tuning, Natural Language Processing (NLP), Neural Networks (CNNs, RNNs, Transformers), Prompt Engineering, PyTorch, Reinforcement Learning, Robotics, Scikit-learn, TensorFlow
+**Professional Competencies:** Automation, Customer Service, Remote Phone Support, Production Operation, Information Technology
 
 ## Projects
 
@@ -39,7 +39,7 @@
 
 **TTM Technologies** - Stafford Springs, CT
 **Programmer/Analyst**
-*Sep 2019 - Present · 5 yrs 10 mos*
+*Sep 2019 - Present*
 - Write and maintain scripts for the CAD/CAM department.
 - Design, develop, maintain full-stack web application (including React frontend and GraphQL backend API) which integrates and assists with various CAD, Engineering, and Operations processes.
 - Develop a graphical CAD viewer/editor for the web, utilizing WebGL and HTML5 canvas, supporting ODB++ and other CAD formats, providing easier access to CAD data, capable of working with millions of features.
@@ -57,7 +57,7 @@
 - Ensure projects and dependencies are up to date and free from any known vulnerabilities.
 
 **Optek CMM Programmer**
-*Oct 2017 - Sep 2019 · 2 yrs*
+*Oct 2017 - Sep 2019*
 - Perform ISO AS9102 First Article Inspection on products using Optek CMM and handheld inspection tools.
 - Accurately interpret blueprints and provided data to engineer programs which automatically measure and qualify dimensions of products.
 - Generate any reports as necessary and maintain traceability.
@@ -68,7 +68,7 @@
 
 **NP Medical Inc.** - Clinton, Massachussetts
 **Machine Operator**
-*Jun 2016 - Oct 2017 · 1 yr 5 mos*
+*Jun 2016 - Oct 2017*
 - Produced medical devices in a clean room environment using robotic assembly machines.
 - Hand assembled some products.
 - Ensured highest quality of products and rate of production.
@@ -83,7 +83,7 @@
 
 **Cox Communications** - West Warwick, Rhode Island
 **Tier II National Support Center Representative**
-*Aug 2010 - Jun 2011 · 11 mos*
+*Aug 2010 - Jun 2011*
 - Provided phone and email technical support for business clients in the Cox National Support Center.
 - Assisted customers with troubleshooting of phone, video, internet, email, web-hosting, managed Wi-Fi, and other Cox products, including step-by-step walkthroughs.
 - Worked with vendors, field technicians, and supervisors when necessary to fix all issues on the first call.
@@ -97,7 +97,7 @@
 *Central Connecticut State University at TTM Technologies – Stafford, CT*
 
 **Unix Systems Administrator Certificate** (Expected Fall 2025)
-*Central Connecticut State University – Stafford, CT*
+*Quinsigamond Community College – Worcester, MA*
 
 **Associate in Computer Science Transfer** (Expected Fall 2026)
 *Quinsigamond Community College – Worcester, MA*
